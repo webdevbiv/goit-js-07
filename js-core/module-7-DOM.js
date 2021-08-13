@@ -1,7 +1,7 @@
 // DOM Navigation
 
-// console.log(document)
-// console.dir(document)
+console.log(document)
+console.dir(document)
 // // console.log(document.body.parentNode) // html
 // console.log(document.parentNode) // null
 
